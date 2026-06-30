@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+plots/
+*.pyc
+h5flow/
+data_files_*.pkl
